@@ -3,3 +3,5 @@ package-lock.json
 dist/temp
 ffmpeg
 .vercel
+.vscode
+dist/
